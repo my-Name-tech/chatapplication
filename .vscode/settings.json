@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/608e1b3c-ebbe-411f-8f93-60bfe7dd04ac/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/myReactChatApp",
+    "appService.deploySubpath": "."
+}
